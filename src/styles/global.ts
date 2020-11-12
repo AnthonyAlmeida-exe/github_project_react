@@ -10,7 +10,7 @@ export default createGlobalStyle`
 }
 
 body{
-  background: #F0F0F5 url(${IconBg}) no-repeat 21% bottom;
+  background: #F0F0F5 url(${IconBg}) no-repeat 21% top;
   -webkit-font-smooting: antialiased;
 }
 body, input, button{
